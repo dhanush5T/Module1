@@ -21,7 +21,7 @@ else:
     print("ODD")
 
 ```
-## Output
+### Output
 
 ![image](https://github.com/user-attachments/assets/c928098d-2936-499a-a6ee-6ad7ab6dea50)
 
